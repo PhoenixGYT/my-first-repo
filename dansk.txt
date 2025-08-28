@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 d dane 
 a actor
 n name
+=======
+d dane
+a actor
+>>>>>>> alternative
 s silver
-k knew
+k kick
